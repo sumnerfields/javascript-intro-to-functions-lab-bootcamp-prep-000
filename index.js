@@ -9,7 +9,7 @@ function logWhisper(string) {return console.log(string.toLowerCase())}
 function sayHiToGrandma(string)
 {
   var hello = "hello"
-  string === hello.toLowerCase()
+  string === hello
   return "I can't hear you!"}
   
 function sayHiToGrandma(string)
