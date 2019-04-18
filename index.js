@@ -18,6 +18,7 @@ function sayHiToGrandma(string)
 
 function sayHiToGrandma(string)
 {
-  string === "I love you, Grandma."
+  var love = "I love you, Grandma."
+  string === love
   return "I love you, too."
 }
