@@ -10,17 +10,14 @@ function sayHiToGrandma(string)
 {
   var hello = "hello"
   string === hello
-  return "I can't hear you!"}
+  return "I can't hear you!"
   
-function sayHiToGrandma(string)
-{
-  var hello = "hello"
-  string === hello.toUpperCase()
-  return "YES INDEED!"}  
-
-function sayHiToGrandma(string)
-{
+   string === hello.toUpperCase()
+  return "YES INDEED!"
+  
   var love = "I love you, Grandma."
   string === love
   return "I love you, too."
 }
+  
+
