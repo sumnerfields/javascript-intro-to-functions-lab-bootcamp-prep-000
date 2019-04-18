@@ -18,6 +18,6 @@ function sayHiToGrandma(string)
 
 function sayHiToGrandma(string)
 {
-  string === "I love you, Grandma."
+  string.toUpperCase() === "I LOVE YOU, GRANDMA."
   return "I love you, too."
 }
