@@ -11,11 +11,7 @@ function sayHiToGrandma(string)
   var hello = "hello"
   var love = "I love you, Grandma."
   var response
-  string === hello {response = "I can't hear you!"}
-  
-  string === hello.toUpperCase() {response = "YES INDEED"}
-  
-  else string === love {response = "I love you, too"}
+  if string === hello {response = "I can't hear you!"}
   
   return response}
   
